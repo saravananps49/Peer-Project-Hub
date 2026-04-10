@@ -1,7 +1,3 @@
-Here’s a clean, professional **GitHub README.md** for your project 👇
-
----
-
 # 🚀 Peer Project Hub 
 
 A full-stack web application where students can **share, explore, and interact with coding projects**. Users can post projects, like them, and browse others' work in a clean, responsive UI.
